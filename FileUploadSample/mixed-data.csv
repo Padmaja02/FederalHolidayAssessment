@@ -1,0 +1,5 @@
+name,date,country
+Valid Holiday,2026-01-01,USA
+Bad Date,2026-99-99,USA
+Canada Day,2026-07-01,CANADA
+Invalid Country,2026-05-05,INDIA
